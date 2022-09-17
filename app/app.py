@@ -6,7 +6,7 @@ app = Flask( __name__)
 
 def index():
     #return "Hola mundo!"
-    cursos = ['php', 'python', 'excel', 'java']
+    cursos = ['php2', 'python', 'excel', 'java']
     data = {
         'titulo': "index",
         'bienvenida': "saludos",
